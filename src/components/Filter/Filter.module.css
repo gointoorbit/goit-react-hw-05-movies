@@ -1,0 +1,21 @@
+.searchButton {
+  padding: 4px 8px;
+  border-radius: 2px;
+  background-color: #f3f3f3;
+  text-align: center;
+  color: black;
+  border: 0;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+    0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+}
+
+.searchInput {
+  font-size: 15px;
+  padding-block: 4px;
+}
